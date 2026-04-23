@@ -24,4 +24,3 @@ url={https://openreview.net/forum?id=TJilJnZjpw}
 For any questions, feedback, or issues regarding the dataset, please open an issue in this repository or contact:
 
 **Lixing Niu**: lxniu@stu.pku.edu.cn
-```
